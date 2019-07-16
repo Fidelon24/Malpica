@@ -20,7 +20,7 @@ import Controlador.Formularios.Controlador_Formulario_Sucursales;
 
 /**
  *
- * @author Denzel Sloth
+ * @author Denzel Sloth y pichon
  */
 
 public final class Controlador_Catalogos extends MD_CONTROLLER implements ActionListener {  
